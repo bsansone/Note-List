@@ -1,0 +1,31 @@
+.page-header {
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.75);
+}
+
+#container-form {
+    text-align: center;
+}
+
+#createNote {
+    padding: 5px;
+}
+
+#detail {
+    background-color: #EDEDED;
+    text-align: center;
+    margin-top: 15px;
+    box-shadow: 1px 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+table {}
+
+td {
+    padding: 15px;
+}
+
+td,
+th {
+    text-align: center;
+}
